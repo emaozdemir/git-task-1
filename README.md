@@ -1,2 +1,2 @@
 # git-task-1
-hello ekledim
+how are you
